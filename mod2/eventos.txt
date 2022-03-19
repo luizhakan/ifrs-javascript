@@ -18,3 +18,10 @@ Eventos: Input
 {6} onReset: quando o botão de reset é clicado
 {7} onKeyDown: quando a tecla é pressionada
 {8} onKeyUp: quando solta a tecla
+
+Eventos: Mouse
+{1} onMouseOver: passando o mouse sobre o elemento
+{2} onMouseOut: saindo do elemento
+{3} onMouseDown: pressionando o botão do mouse sobre o elemento
+{4} onMouseUp: soltando o botão do mouse do elemento
+{5} onMouseMove: movimentando o mouse sobre o elemento
