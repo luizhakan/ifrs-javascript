@@ -1,0 +1,20 @@
+/****[EVENTOS]****/
+
+Eventos: Load
+
+{1} onLoad : quando a página ou imagem é carregada
+{2} onResize: quando a janela do navegador é redimensionada
+
+Eventos: Click
+{1} onClick : quando o elemento é clicado 1 vez
+{2} onDbClick : quando o elemento é clicado 2 vezes (clique rápido)
+
+Eventos: Input
+{1} onBlur: quando sai do campo
+{2} onChange: quando muda o conteúdo do campo
+{3} onFocus: quando entra no campo
+{4} onSelect: quando um texto é selecionado
+{5} onSubmit: quando o formulário é submetido
+{6} onReset: quando o botão de reset é clicado
+{7} onKeyDown: quando a tecla é pressionada
+{8} onKeyUp: quando solta a tecla
